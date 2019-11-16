@@ -1,0 +1,19 @@
+
+Modern Python Short Course
+
+Personal Intro Todo:
+  ✔ Introduce myself @done(19-11-16 09:10)
+
+Intro Todo:
+  ✔ What is this class? @done(19-11-16 09:12)
+  ✔ Show overview markdown @done(19-11-16 09:12)
+  ✔ First project, create a simple class to time and compare asnycio vs asyncio + multiprocessing pool @done(19-11-16 09:13)
+  ✔ Second project, machine learning python code checker; parse, vectorize, and fit differen't classifiers -- test files using clustering @done(19-11-16 09:13)
+
+Episode 1 Todo:
+  ✔ Intro to virtual environments @done(19-11-16 09:14)
+  ✔ Install and setup virtualenvwrapper @done(19-11-16 09:20)
+  ✔ Create a new virtual environment to use for projects @done(19-11-16 09:20)
+  ✔ Navigate to the virtualenv saved by virtualenvwrapper @done(19-11-16 09:20)
+
+
