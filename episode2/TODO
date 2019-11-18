@@ -1,0 +1,15 @@
+
+Modern Python Short Course
+
+Intro Todo:
+    ☐ Introduction into Python class and inheritence
+    ☐ Introduction into asnycio
+
+Project Todo:
+    ☐ Create timer class
+    ☐ Create asnyc web crawler class
+        ☐ Start at at one to many urls
+        ☐ Visit all unique urls and add to a list
+        ☐ Allow X concurrent connections; default: 16
+        ☐ Stop at X unique URLS; default: 1000
+    
